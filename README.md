@@ -39,7 +39,7 @@ The skeleton ships with [laminas-development-mode](https://github.com/laminas/la
 by default, and provides three aliases for consuming the script it ships with:
 
 ```bash
-$ composer development-enable  # enable development mode
+$ composer development-enable  # enable development modex
 $ composer development-disable # disable development mode
 $ composer development-status  # whether or not development mode is enabled
 ```
